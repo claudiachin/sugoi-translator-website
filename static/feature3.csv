@@ -1,0 +1,9 @@
+Region,Server,Short Texts (s),Medium Texts (s),Long Texts (s),Average Speed (s)
+Local,GPU,0.07,0.17,0.24,10.16
+USA,California,0.19,0.26,0.34,0.26
+USA,Ohio,0.34,0.37,0.43,0.38
+Europe,Finland,0.39,0.47,0.55,0.47
+Europe,Spain,0.47,0.62,0.66,0.58
+Asia,Vietnam,0.44,0.54,0.65,0.54
+Asia,Malaysia,0.56,0.66,0.75,0.66
+Local,i5 9th CPU,0.46,1.4,2.1,1.32
