@@ -61,10 +61,12 @@
 <section class="header">
 	<div class="start" />
 	<img src="/LOGO.png" alt="logo.png" />
-	<button class="end button">
-		<p>GitHub</p>
-		<i class="bi bi-github" />
-	</button>
+    <a class="end" href="https://github.com/leminhyen2/Sugoi-Japanese-Translator" target="_blank">
+        <button class="button">
+            <p>GitHub</p>
+            <i class="bi bi-github" />
+        </button>
+    </a>
 </section>
 
 <section class="hero">
@@ -678,7 +680,7 @@
 			background: $white;
 			color: $dark_blue;
 			border-radius: 8px;
-			padding: 48px 64px;
+			padding: 48px 48px;
 
 			min-width: 200px;
 			max-width: 300px;
